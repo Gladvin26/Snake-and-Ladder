@@ -2,11 +2,11 @@ This is a digital version of the classic Snake and Ladder board game. Designed f
 
 Features
 
-Single Player Mode: Play against the computer.
-Multiplayer Mode: Challenge your friends locally or online.
-Interactive Board: Engaging graphics and animations.
-Custom Rules: Option to customize game settings.
-Score Tracking: Automatically tracks player progress and scores.
+1.Single Player Mode: Play against the computer.
+2.Multiplayer Mode: Challenge your friends locally or online.
+3.Interactive Board: Engaging graphics and animations.
+4.Custom Rules: Option to customize game settings.
+5.Score Tracking: Automatically tracks player progress and scores.
 
 Installation
 
